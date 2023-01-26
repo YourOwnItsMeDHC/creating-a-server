@@ -1,0 +1,15 @@
+{
+  "name": "create-server",
+  "version": "1.0.0",
+  "description": "Server made by Deepak Chourasiya",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/YourOwnItsMeDHC/creating-a-server.git)"
+  },
+  "author": "Deepak Chourasiya",
+  "license": "ISC"
+}
